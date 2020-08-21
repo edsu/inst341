@@ -58,7 +58,7 @@ that you can add to your portfolio of work.
 ### 1. What is Digital Curation? (August 31 - September 11)
 
 Learning outcomes:
-* recognize digital curation as an expression of archival theory and practice
+* recognize the cconnectio between digital curation and politics
 * ability to run Jupyter notebooks that interact with the file system
 
 Readings:
@@ -79,7 +79,8 @@ September 7, Labor Day
 ### 2. File Formats and Standards (September 14 - September 25)
 
 Learning outcomes:
-* 
+* Can identify the purpose of standards, and why they matter for digital curation.
+* Use Python to identify the formats of files.
 
 Reading:
 * Lampland and Star (2009).
@@ -89,11 +90,9 @@ Discussion:
 * Find a file format and discuss 1) who created it 2) when was it created by? 3)
   who did the creators work for? 4) what applications use it today?
 
-Discussion prompts:
-* 
-
 Notebook exercises:
-* file format identification
+* file format identification with fido
+
 * determine applications that can be used to open files
 
 ### 3. Internal Metadata (September 28 - October 9)

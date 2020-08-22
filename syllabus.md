@@ -69,6 +69,7 @@ Discussion prompts:
 * What conference is Caswell speaking at and what is its focus?
 * What is archival appraisal, and what is Caswell saying about it?
 * What advice does Caswell give to the digital preservation community?
+* What is the mystery file format?
 
 Notebook Exercise
 * File and directory navigation
@@ -84,6 +85,7 @@ Learning outcomes:
 
 Reading:
 * Lampland and Star (2009).
+* Russell and Vinsel (2019) The Joy of Standards.
 * Owens (2018), Chapter 6, Managing Copies and Formats.
 
 Discussion:
@@ -92,21 +94,41 @@ Discussion:
 
 Notebook exercises:
 * file format identification with fido
-
 * determine applications that can be used to open files
 
 ### 3. Internal Metadata (September 28 - October 9)
 
-Topic: Internal Metadata
-Reading: 
-Exercise: exinfo, ffmpeg, what do social media platforms strip?
+Learning Outcomes:
+* Be able to extract embedded metadata from files.
+* Observe how applications and data interact.
 
-### 4. October 12 - October 23
+Reading:
+* Computer Files are Going Extinct: https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506
+* Snowden, E. (2019). Permanent Record, Chapter 16 Tokyo.
 
-Topic: External Metadata and Description
-Readings: Mukurtu? Stories and Names (Verne)
-Exercise: Bagging content, download social media data, videogrep
+Exercise:
+* extract image metadata: exinfo
+* extract video metadata: ffmpeg
+* extract audio metadata: id3
+
+### 4. External Metadata & Description (October 12 - October 23)
+
+Learning Outcomes:
+* Can 
+
+Readings:
+* Harris, V. Stories and Names.
+* #WeMissIPres
+
+Discussion:
+* Summarize iPRES presentation.
+
+Exercise:
+* Fixity generation
+
+Bagging content, download social media data, videogrep
 * attend and write up a #wemissipres event
+
 
 ### 5. Platforms: October 26 - November 6
 

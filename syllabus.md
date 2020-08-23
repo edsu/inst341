@@ -1,7 +1,7 @@
 # INST341 - Introduction to Digital Curation
 
 **Instructor:** Ed Summers  edsu@umd.edu  
-**Office Hours:** Thursday 2-4 and Friday 2-4 on [Zoom](https://umd.zoom.us/my/esummers)
+**Office Hours:** Thursday 2-4 and by appointment on [Zoom](https://umd.zoom.us/my/esummers)
 
 ## Catalog Description
 

@@ -27,7 +27,7 @@ curation by using open source technologies and the Python programming language.
 
 At the end of this course you will be able to:
 
-1. Recognize digital curation in your daily life and future career.
+1. Discover digital curation in your daily life and potential future career.
 2. Use the Python programming language to perform digital curation tasks.
 3. Critically examine the social and political aspects of digital curation.
 
@@ -95,14 +95,14 @@ Learning outcomes:
 
 Readings:
 * Caswell, Michelle. [Whose Digital Preservation?](https://www.youtube.com/watch?v=atX14DDvKbw). Video presentation from iPRES 2019.
-* Owens, T. (2018), Chapter 2, Understanding Digital Objects.
+* Owens (2018). Chapter 2, Understanding Digital Objects.
 
 Discussion prompts:
 * What is a digital object? What does Owens think are the characteristics of a digital object?
 * What is archival appraisal? What does Caswell think is wrong with it?
 * What is the mystery file format?
 
-Notebook Exercise
+Exercises:
 * File and directory navigation
 * File sizes
 
@@ -113,14 +113,14 @@ Learning outcomes:
 * Use Python to identify and migrate files.
 
 Reading:
-* Russell and Vinsel (2019) The Joy of Standards.
-* Owens (2018), Chapter 6, Managing Copies and Formats.
+* Russell and Vinsel (2019). [The Joy of Standards](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
+* Owens (2018). Chapter 6, Managing Copies and Formats.
 
 Discussion:
 * Discover a file format and discuss 1) who created it 2) when was it created by? 3)
   who did the creators work for? 4) what applications use it today?
 
-Notebook exercises:
+Exercises:
 * Identify the formats of files using fido.
 * Determine what applications can be used to open files.
 
@@ -131,7 +131,7 @@ Learning Outcomes:
 * Examine how applications use and modify internal metadata.
 
 Reading:
-* Computer Files are Going Extinct: https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506
+* Pitt, S. (2019). [Computer Files are Going Extinct](https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506)
 * Snowden, E. (2019). Permanent Record, Chapter 16 Tokyo.
 
 Discussion:
@@ -166,7 +166,7 @@ Learning outcomes:
 * Use version control to explore data provenance.
 
 Readings:
-* Acker, A. and Kriesberg, A. (2017). Tweets may be archived: Civic engagement, digital preservation and Obama White House social media data. Proceedings of the Association for Information Science and Technology, 54(1):1–9.
+* Acker and Kriesberg (2017). Tweets may be archived: Civic engagement, digital preservation and Obama White House social media data. Proceedings of the Association for Information Science and Technology, 54(1):1–9.
 
 Discussion:
 * What did Acker and Kriesberg discover about the Obama social media archives? 
@@ -190,11 +190,11 @@ Disussion:
 * How would you describe the Bellingcat user community in relation to the FAIR
   principles?
 
-Exercise:
+Exercises:
 * [Write the Docs](https://www.writethedocs.org/)
 * Digital Asset Management Planning tool.
 
-### Thanksgiving Break (November 23 - November 27)
+*Thanksgiving Break (November 23 - November 27)*
 
 ### 7. Infrastructure (November 30 - December 11)
 
@@ -209,8 +209,8 @@ Reading:
 Discussion:
 * 
 
-Exercise:
-* Photograph data infrastructure in your town or city.
+Exercises:
+* Document some aspect of data infrastructure in your town or city.
 * Explore terpfootprints environmental data.
 
 ### 9. Project Wrap-up (December 14 - December 22)
@@ -228,15 +228,11 @@ individual elements below converted to a letter grade:
 
 Final grades will be computed based on the following components:
 
-|                        |            |
-|------------------------| ---------: |
-| Exercises/Quizzes (10) |  20 points |
-| Homework (5)           |  25 points |
-| Midterms (2)           |  20 points |
-| Reflections (3)        |  10 points |
-| Final Project          |  15 points |
-| Participation          |  10 points |
-| TOTAL                  | 100 points |
+|                           |            |
+|---------------------------| ---------: |
+| Graded Discussions (7)    |  70 points |
+| Graded Exercises (7)      |  70 points |
+| Final Project             |  20 points |
 
 ## Academic Integrity
 

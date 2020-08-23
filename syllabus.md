@@ -48,8 +48,7 @@ read books (I do!) you can puchase hard copies of them at your favorite book sel
 
 * Owens, T. (2018). The Theory and Craft of Digital Preservation. Johns Hopkins
 University Press.
-* Lampland, M. and Star, S. L. (2009). Standards and their stories: How quantifying, classifying, and formalizing practices shape everyday life. Cornell University Press.
-* 
+* D’Ignazio, C. and Klein, L. F. (2020). [Data Feminism](https://data-feminism.mitpress.mit.edu/). MIT Press.
 
 ## Modules
 

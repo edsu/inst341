@@ -18,32 +18,38 @@ the web platforms we use, to the devices that track our movements in the world
 and the algorithms that analyze and classify us. What does this data look like?
 How is it collected and described? Who can access it? How is it persisted,
 preserved, and purged. How can we resist it? In this class we will explore these
-questions using the theories and practices of *digital curation* or the care of 
-data. By the end of the semester you will be able to analyze and document these
-data flows using principles drawn from archival studies. We will learn the
-practice of digital curation by using open source technologies and the Python
-programming language. 
+questions using the theories and practices of *digital curation*. By the end
+of the semester you will be able to analyze and document these data flows using
+principles drawn from archival studies. We will learn the practice of digital
+curation by using open source technologies and the Python programming language.
 
 ## Learning Outcomes
 
 At the end of this course you will be able to:
 
-1. Recognize digital curation concepts in your daily lives and future careers.
+1. Recognize digital curation in your daily life and future career.
 2. Use the Python programming language to perform digital curation tasks.
 3. Critically examine the social and political aspects of digital curation.
 
 ## Technology Requirements
 
+To complete the exercises in this class you will need a computer to access
+the Jupyter notebook envrionment at colab.research.google.com. If you 
+prefer you can use a Jupyter notebook environment on your own computer. But
+it will be your responsibility to ensure you are running the correct version
+of Jupyter and are able to install third party Python modules like we will be
+doing in colab.
+
 ## Reading Materials
 
 All readings will be posted to ELMS as PDFs. We will be reading selections from
-the following texts, which you may optionally purchase copies if you still
-like books (I do!).
+a few books which will be available in full as PDFs. If you prefer to sometimes 
+read books (I do!) you can puchase hard copies of them at your favorite book seller.
 
-Owens, T. (2018). The Theory and Craft of Digital Preservation. Johns Hopkins
+* Owens, T. (2018). The Theory and Craft of Digital Preservation. Johns Hopkins
 University Press.
-
-Lampland, M. and Star, S. L. (2009). Standards and their stories: How quantifying, classifying, and formalizing practices shape everyday life. Cornell University Press.
+* Lampland, M. and Star, S. L. (2009). Standards and their stories: How quantifying, classifying, and formalizing practices shape everyday life. Cornell University Press.
+* 
 
 ## Modules
 
@@ -58,101 +64,125 @@ that you can add to your portfolio of work.
 ### 1. What is Digital Curation? (August 31 - September 11)
 
 Learning outcomes:
-* recognize the cconnectio between digital curation and politics
-* ability to run Jupyter notebooks that interact with the file system
+* Recognize digital curation as an inherently political project.
+* Use Jupyter notebooks and the pathlib module to interact with the file system.
 
 Readings:
-* Caswell, Michelle. [Whose Digital Preservation?(https://www.youtube.com/watch?v=atX14DDvKbw). Video presentation from iPRES 2019.
-* Owens (2018), Chapter 2 Understanding Digital Objects.
+* Caswell, Michelle. [Whose Digital Preservation?](https://www.youtube.com/watch?v=atX14DDvKbw). Video presentation from iPRES 2019.
+* Owens, T. (2018), Chapter 2, Understanding Digital Objects.
 
 Discussion prompts:
-* What conference is Caswell speaking at and what is its focus?
-* What is archival appraisal, and what is Caswell saying about it?
-* What advice does Caswell give to the digital preservation community?
+* What is a digital object? What does Owens think are the characteristics of a digital object?
+* What is archival appraisal? What does Caswell think is wrong with it?
 * What is the mystery file format?
 
 Notebook Exercise
 * File and directory navigation
 * File sizes
 
-September 7, Labor Day
-
 ### 2. File Formats and Standards (September 14 - September 25)
 
 Learning outcomes:
-* Can identify the purpose of standards, and why they matter for digital curation.
-* Use Python to identify the formats of files.
+* Describe the purpose of standards and their significance for digital curation.
+* Use Python to identify and migrate files.
 
 Reading:
-* Lampland and Star (2009).
 * Russell and Vinsel (2019) The Joy of Standards.
 * Owens (2018), Chapter 6, Managing Copies and Formats.
 
 Discussion:
-* Find a file format and discuss 1) who created it 2) when was it created by? 3)
+* Discover a file format and discuss 1) who created it 2) when was it created by? 3)
   who did the creators work for? 4) what applications use it today?
 
 Notebook exercises:
-* file format identification with fido
-* determine applications that can be used to open files
+* Identify the formats of files using fido.
+* Determine what applications can be used to open files.
 
 ### 3. Internal Metadata (September 28 - October 9)
 
 Learning Outcomes:
-* Be able to extract embedded metadata from files.
-* Observe how applications and data interact.
+* Extract embedded metadata from media files.
+* Examine how applications use and modify internal metadata.
 
 Reading:
 * Computer Files are Going Extinct: https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506
 * Snowden, E. (2019). Permanent Record, Chapter 16 Tokyo.
 
-Exercise:
-* extract image metadata: exinfo
-* extract video metadata: ffmpeg
-* extract audio metadata: id3
+Discussion:
+* Wha
+
+Exercises:
+* Extract media metadata: exinfo, ffmpeg, id3
 
 ### 4. External Metadata & Description (October 12 - October 23)
 
 Learning Outcomes:
-* Can 
+* Apply bit-level preservation techniques to files.
+* Persist extracted metadata as external metadata.
 
 Readings:
-* Harris, V. Stories and Names.
+* Harris, V. Stories and Names
+* Data Feminism, Chapter 6, The Numbers Don't Speak for Themselves.
 * #WeMissIPres
 
 Discussion:
 * Summarize iPRES presentation.
 
-Exercise:
+Exercises:
 * Fixity generation
-
-Bagging content, download social media data, videogrep
-* attend and write up a #wemissipres event
-
+* Five Ws of description.
+* Attend and write up a #wemissipres event
 
 ### 5. Platforms: October 26 - November 6
 
-Topics: repositories, social media, versioning
-Exercise: COVID data on GitHub.
-Reading: Kriesberg and Acker
+Learning outcomes:
+* Explain how platforms transform data.
+* Use version control to explore data provenance.
+
+Readings:
+* Acker, A. and Kriesberg, A. (2017). Tweets may be archived: Civic engagement, digital preservation and Obama White House social media data. Proceedings of the Association for Information Science and Technology, 54(1):1–9.
+
+Discussion:
+* What did Acker and Kriesberg discover about the Obama social media archives? 
+
+Exercises:
+* Export and examine social media archive.
+* COVID data on GitHub: https://github.com/nytimes/covid-19-data ; https://github.com/nychealth/coronavirus-data
 
 ### 6. Community: November 9 - November 20
 
-Topics: users, participation, licenses, governance
-Reading:
+Learning outcomes:
+* Evaluate the modes of participation in online communities.
+
+Readings:
 * Elliot Higgins. [Bellingcat and Beyond](https://www.youtube.com/watch?v=kZAb7CVGmXM&feature=youtu.be). iPRES 2020.
-Exercise: Read the Docs? Digital Asset Management Planning
+* [The FAIR Principles](https://www.go-fair.org/fair-principles/).
+
+Disussion:
+* 
+
+Exercise:
+* [Write the Docs](https://www.writethedocs.org/)
+* Digital Asset Management Planning tool.
 
 ### 7. Thanksgiving Break: November 23 - November 27
 
 ### 8. Infrastructure - November 30 - December 11
 
-Topics: repair, maintenance, work, labor
-Reading: Networks of New York ; Zeynep Tufekci, :
+Learing outcomes:
+* Document how data is produced and maintained.
+* Examine the types of data infrastructures in our lived environment.
+
+Reading:
+* D'Ignazio and Klein (2020). Chapter 7, Show Your Work. pp 172-201.
+* Burrington (2018). [Surveillance and the City](https://www.youtube.com/watch?v=rPquYfE2JOc)
+
 Discussion:
+* 
+
 Exercise:
-* shipping data
-* walk about
+* Photograph data infrastructure in your town or city.
+* Explore terpfootprints environmental data.
 
 ### 9. December 14 - December 22
 

@@ -65,33 +65,6 @@ your responsibility to ensure you are running the correct version of Python (v3)
 and Jupyter, and are able to install third party Python modules with
 [pip](https://pip.pypa.io/en/stable/) like we will be doing in Colab.
 
-## Grading
-
-Your final grade for the course is computed as the sum of your scores on the
-individual elements below converted to a letter grade:
-
-|        |        |        |       |        |       |        |       |        |        |
-|--------|--------|--------|-------|--------|-------|--------|-------|--------|--------|
-| **A+** | 97-100 | **B+** | 87-89 | **C+** | 77-79 | **D+** | 67-69 |        |        |
-| **A**  | 93-96  | **B**  | 83-86 | **C**  | 73-76 | **D**  | 63-67 | **F**  | 0-59   |
-| **A-** | 90-92  | **B-** | 80-82 | **C-** | 70-73 | **D-** | 60-63 |        |        |
-
-Final grades will be computed based on the following components:
-
-|                        |            |
-|------------------------| ---------: |
-| Exercises/Quizzes (10) |  20 points |
-| Homework (5)           |  25 points |
-| Midterms (2)           |  20 points |
-| Reflections (3)        |  10 points |
-| Final Project          |  15 points |
-| Participation          |  10 points |
-| TOTAL                  | 100 points |
-
-## Academic Integrity
-
-
-
 ## Reading Materials
 
 All reading materials will be posted to ELMS. We will be reading selections from
@@ -162,7 +135,8 @@ Reading:
 * Snowden, E. (2019). Permanent Record, Chapter 16 Tokyo.
 
 Discussion:
-* Wha
+* What is metadata, and what is it used for?
+* What is the relationship between standards and metadata?
 
 Exercises:
 * Extract media metadata: exinfo, ffmpeg, id3
@@ -170,13 +144,12 @@ Exercises:
 ### 4. External Metadata & Description (October 12 - October 23)
 
 Learning Outcomes:
+* Explain the need to document the context for data.
 * Apply bit-level preservation techniques to files.
 * Persist extracted metadata as external metadata.
 
 Readings:
-* Harris, V. Stories and Names
-* Data Feminism, Chapter 6, The Numbers Don't Speak for Themselves.
-* #WeMissIPres
+* D'Ignazio and Klein (2020). Chapter 6, The Numbers Don't Speak for Themselves.
 
 Discussion:
 * Summarize iPRES presentation.
@@ -186,7 +159,7 @@ Exercises:
 * Five Ws of description.
 * Attend and write up a #wemissipres event
 
-### 5. Platforms: October 26 - November 6
+### 5. Platforms (October 26 - November 6)
 
 Learning outcomes:
 * Explain how platforms transform data.
@@ -202,7 +175,7 @@ Exercises:
 * Export and examine social media archive.
 * COVID data on GitHub: https://github.com/nytimes/covid-19-data ; https://github.com/nychealth/coronavirus-data
 
-### 6. Community: November 9 - November 20
+### 6. Community (November 9 - November 20)
 
 Learning outcomes:
 * Evaluate the modes of participation in online communities.
@@ -212,15 +185,18 @@ Readings:
 * [The FAIR Principles](https://www.go-fair.org/fair-principles/).
 
 Disussion:
-* 
+* What are the components of the FAIR principles?
+* Identify one of the FAIR principles at work (either positively or negatively) in a scientific digital curation project.
+* How would you describe the Bellingcat user community in relation to the FAIR
+  principles?
 
 Exercise:
 * [Write the Docs](https://www.writethedocs.org/)
 * Digital Asset Management Planning tool.
 
-### 7. Thanksgiving Break: November 23 - November 27
+### Thanksgiving Break (November 23 - November 27)
 
-### 8. Infrastructure: November 30 - December 11
+### 7. Infrastructure (November 30 - December 11)
 
 Learing outcomes:
 * Document how data is produced and maintained.
@@ -237,6 +213,31 @@ Exercise:
 * Photograph data infrastructure in your town or city.
 * Explore terpfootprints environmental data.
 
-### 9. Project Wrapup: December 14 - December 22
+### 9. Project Wrap-up (December 14 - December 22)
+
+## Grading
+
+Your final grade for the course is computed as the sum of your scores on the
+individual elements below converted to a letter grade:
+
+|        |        |        |       |        |       |        |       |        |        |
+|--------|--------|--------|-------|--------|-------|--------|-------|--------|--------|
+| **A+** | 97-100 | **B+** | 87-89 | **C+** | 77-79 | **D+** | 67-69 |        |        |
+| **A**  | 93-96  | **B**  | 83-86 | **C**  | 73-76 | **D**  | 63-67 | **F**  | 0-59   |
+| **A-** | 90-92  | **B-** | 80-82 | **C-** | 70-73 | **D-** | 60-63 |        |        |
+
+Final grades will be computed based on the following components:
+
+|                        |            |
+|------------------------| ---------: |
+| Exercises/Quizzes (10) |  20 points |
+| Homework (5)           |  25 points |
+| Midterms (2)           |  20 points |
+| Reflections (3)        |  10 points |
+| Final Project          |  15 points |
+| Participation          |  10 points |
+| TOTAL                  | 100 points |
 
 ## Academic Integrity
+
+

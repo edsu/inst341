@@ -1,6 +1,6 @@
 # INST341 - Introduction to Digital Curation
 
-**Instructor:** Ed Summers  edsu@umd.edu
+**Instructor:** Ed Summers  edsu@umd.edu  
 **Office Hours:** Thursday 2-4 and Friday 2-4 on [Zoom](https://umd.zoom.us/my/esummers)
 
 ## Catalog Description
@@ -31,20 +31,74 @@ At the end of this course you will be able to:
 2. Use the Python programming language to perform digital curation tasks.
 3. Critically examine the social and political aspects of digital curation.
 
+## How We'll Work
+
+The semester is split into 8 different two-week modules. Each module focuses on
+some aspect of digital curation. In the first week of each module we will read
+and discuss an aspect of digital curation. In the second week of each module we
+will exercise some of the ideas in a Jupyter notebook environment.
+
+Here is my suggested general strategy for working on assignments:
+
+1. Start early – don’t wait. That will give you time to work through the
+   problems and get help as needed.
+2. When you run into a problem, spend 5-10 minutes trying to solve it on your
+   own.
+3. Then take a break. Sometimes this will allow you to come back and see
+   something you missed. Letting your subconscious work on it for a while
+   (unsupervised, so to speak) will often lead to useful ideas.
+4. If you’ve spent 20-30 minutes and still are stuck, post your question on
+   ELMS. We are here to help each other, so don’t beat your head against a brick
+   wall—ask for help! When you post, provide as much information as you can.
+   Often it helps to post a screenshot with the problem.
+5. I will respond as soon as I am able, usually within a day.
+6. If you see a question on the discussion board that you can answer, or if you
+   have an idea, please respond. Don’t wait for me. You will be helping your
+   colleagues.
+
 ## Technology Requirements
 
-To complete the exercises in this class you will need a computer to access
-the Jupyter notebook envrionment at colab.research.google.com. If you 
-prefer you can use a Jupyter notebook environment on your own computer. But
-it will be your responsibility to ensure you are running the correct version
-of Jupyter and are able to install third party Python modules like we will be
-doing in colab.
+To complete the exercises in this class you will need a computer to access the
+Jupyter notebook environment at https://colab.research.google.com If you prefer
+you can use a Jupyter notebook environment on your own computer. But it will be
+your responsibility to ensure you are running the correct version of Python (v3)
+and Jupyter, and are able to install third party Python modules with
+[pip](https://pip.pypa.io/en/stable/) like we will be doing in Colab.
+
+## Grading
+
+Your final grade for the course is computed as the sum of your scores on the
+individual elements below converted to a letter grade:
+
+|        |        |        |       |        |       |        |       |        |        |
+|--------|--------|--------|-------|--------|-------|--------|-------|--------|--------|
+| **A+** | 97-100 | **B+** | 87-89 | **C+** | 77-79 | **D+** | 67-69 |        |        |
+| **A**  | 93-96  | **B**  | 83-86 | **C**  | 73-76 | **D**  | 63-67 | **F**  | 0-59   |
+| **A-** | 90-92  | **B-** | 80-82 | **C-** | 70-73 | **D-** | 60-63 |        |        |
+
+Final grades will be computed based on the following components:
+
+|                        |            |
+|------------------------| ---------: |
+| Exercises/Quizzes (10) |  20 points |
+| Homework (5)           |  25 points |
+| Midterms (2)           |  20 points |
+| Reflections (3)        |  10 points |
+| Final Project          |  15 points |
+| Participation          |  10 points |
+| TOTAL                  | 100 points |
+
+## Academic Integrity
+
+
 
 ## Reading Materials
 
-All readings will be posted to ELMS as PDFs. We will be reading selections from
-a few books which will be available in full as PDFs. If you prefer to sometimes 
-read books (I do!) you can puchase hard copies of them at your favorite book seller.
+All reading materials will be posted to ELMS. We will be reading selections from
+a couple books which, which you can order print copies of from your favorite
+book seller...you know, if you prefer reading real books (I do!). The *Data
+Feminism* book is a beautiful produced coffee table style book and well worth
+the investment if you have the money.
 
 * Owens, T. (2018). The Theory and Craft of Digital Preservation. Johns Hopkins
 University Press.
@@ -183,8 +237,6 @@ Exercise:
 * Photograph data infrastructure in your town or city.
 * Explore terpfootprints environmental data.
 
-### 9. December 14 - December 22
-
-Topic: Project Wrapup
+### 9. Project Wrapup: December 14 - December 22
 
 ## Academic Integrity

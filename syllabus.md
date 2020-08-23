@@ -220,7 +220,7 @@ Exercise:
 
 ### 7. Thanksgiving Break: November 23 - November 27
 
-### 8. Infrastructure - November 30 - December 11
+### 8. Infrastructure: November 30 - December 11
 
 Learing outcomes:
 * Document how data is produced and maintained.

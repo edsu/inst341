@@ -198,7 +198,7 @@ Exercises:
 
 ### 7. Infrastructure (November 30 - December 11)
 
-Learing outcomes:
+Learning outcomes:
 * Document how data is produced and maintained.
 * Examine the types of data infrastructures in our lived environment.
 

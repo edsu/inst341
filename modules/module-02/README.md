@@ -13,8 +13,7 @@
 ## Discussion prompts:
 
 * What is a digital object? What does Owens think are the characteristics of a digital object?
-* What is archival appraisal? What does Caswell think is wrong with it?
-* What is the mystery file format?
+* Can you think of an example of a digital object that Owens doesn't mention?  Where is it stored and how is it used?
 
 ## Exercises:
 

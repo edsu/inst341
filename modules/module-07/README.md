@@ -8,6 +8,7 @@
 
 * Elliot Higgins. [Bellingcat and Beyond](https://www.youtube.com/watch?v=kZAb7CVGmXM&feature=youtu.be). iPRES 2020.
 * [The FAIR Principles](https://www.go-fair.org/fair-principles/).
+* [Levels of Digital Preservation](https://ndsa.org/publications/levels-of-digital-preservation/)
 
 ## Discussion:
 

@@ -7,7 +7,6 @@
 
 ## Readings:
 
-* Caswell, Michelle. [Whose Digital Preservation?](https://www.youtube.com/watch?v=atX14DDvKbw). Video presentation from iPRES 2019.
 * Owens (2018). Chapter 2, Understanding Digital Objects.
 
 ## Discussion prompts:

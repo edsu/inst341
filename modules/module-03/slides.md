@@ -36,6 +36,13 @@ transition: slide
 
 :::
 
+## Learning Outcomes
+
+1. Describe the purpose of standards and their significance for digital
+   curation.
+
+2. Use Python to identify files and their applications.
+
 :::
 
 ##  Readings

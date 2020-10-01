@@ -15,7 +15,7 @@ from os.path import join, basename
 # http://downloads.digitalcorpora.org/corpora/files/govdocs1/
 
 data_dir = '/home/ed/Data/govdocs1'
-roster = 'roster.csv'
+roster = '../../roster.csv'
 
 # get the users
 usernames = []
@@ -24,7 +24,7 @@ for row in csv.reader(open(roster)):
     usernames.append(parts[0])
 usernames.append('inst341')
 
-usernames = ['dseo3', 'mnoren']
+usernames = ['edsu']
 
 # get the files
 paths = []

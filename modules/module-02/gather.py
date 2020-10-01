@@ -24,8 +24,6 @@ for row in csv.reader(open(roster)):
     usernames.append(parts[0])
 usernames.append('inst341')
 
-usernames = ['edsu']
-
 # get the files
 paths = []
 for root, dirs, files in os.walk(data_dir):

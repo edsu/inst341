@@ -18,6 +18,4 @@
 
 * Fixity generation
 * Five Ws of description.
-* Attend and write up a #wemissipres event
-
 

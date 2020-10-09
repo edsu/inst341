@@ -2,6 +2,7 @@
 
 ## Learning Outcomes:
 
+* Describe the relationship between file formats and internal metadata.
 * Extract embedded metadata from media files.
 * Examine how applications use and modify internal metadata.
 
@@ -13,11 +14,10 @@
 
 ## Discussion:
 
-* What is metadata, and what is it used for?
-* What is the relationship between standards and metadata?
+* Why do you think the sustainability of file formats important for digital curation?
+* What seven factors does Owens think should be used to evaluate the sustainability of a file format?
+* Pick a file format (perhaps one you looked at in Module 2 or 3) and write down some information about it in terms of at least four of the seven factors.
 
 ## Exercises:
 
 * Extract media metadata: exinfo, ffmpeg, id3
-
-

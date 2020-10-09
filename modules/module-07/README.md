@@ -20,6 +20,7 @@
 ## Exercises:
 
 * [Write the Docs](https://www.writethedocs.org/)
+* Open Elections data from GitHub?
 * Digital Asset Management Planning tool.
 
 

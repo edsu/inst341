@@ -16,6 +16,7 @@
 
 ## Exercises:
 
+* Google Reverse Image search
 * Fixity generation
 * Five Ws of description.
 

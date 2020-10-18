@@ -9,3 +9,7 @@ Choose one:
 Examples of projects to discuss:
 
 * GitHub Arctic Vault: what curation processes are at work in it?
+
+* Datasheets for Dataset: write one?
+
+* Data User Guide (Gradeck): write one?

@@ -62,3 +62,5 @@ for user in usernames:
     open('manifest.json', 'w').write(json.dumps(manifest, indent=2))
     z.write('manifest.json', join(user, 'manifest.json'))
     z.close()
+
+    os.remove('manifest.json')

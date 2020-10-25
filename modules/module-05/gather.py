@@ -36,10 +36,11 @@ for root, dirs, files in os.walk(data_dir):
             paths.append(os.path.join(root, name))
 
 def sha256(p):
+    # not memory efficient, but ok for these purposes
     p = pathlib.Path(p)
     h = hashlib.sha256()
     with p.open('rb') as fh:
-        h.update(fh.read(1024))
+        h.update(fh.read())
     return h.hexdigest()
 
 # write a zip file for each user

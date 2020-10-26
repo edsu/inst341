@@ -9,10 +9,9 @@ import csv
 import json
 import random
 import hashlib
-import pathlib
 import zipfile
 
-from os.path import join, basename
+from pathlib import Path
 
 # data collected from:
 # http://downloads.digitalcorpora.org/corpora/files/govdocs1/
@@ -31,13 +30,12 @@ usernames.append('inst341')
 paths = []
 for root, dirs, files in os.walk(data_dir):
     for name in files:
-        p = os.path.join(root, name)
-        if pathlib.Path(p).stat().st_size < 10000:
-            paths.append(os.path.join(root, name))
+        p = Path(root) / name
+        if p.stat().st_size < 10000:
+            paths.append(p)
 
 def sha256(p):
     # not memory efficient, but ok for these purposes
-    p = pathlib.Path(p)
     h = hashlib.sha256()
     with p.open('rb') as fh:
         h.update(fh.read())
@@ -50,8 +48,9 @@ for user in usernames:
     z = zipfile.ZipFile(zip_path, 'w')
     manifest = []
     for p in random.sample(paths, 25):
-        z.write(p, join(user, basename(p)))
-        manifest.append({'path': p, 'sha256': sha256(p)})
+        local_p = Path(user) / p.name
+        z.write(p, local_p)
+        manifest.append({'path': p.name, 'sha256': sha256(p)})
 
     # flip a character in the checksum of a random entry in the manifest
     if user != 'inst341':
@@ -60,7 +59,7 @@ for user in usernames:
         e['sha256'] = c + e['sha256'][1:]
 
     open('manifest.json', 'w').write(json.dumps(manifest, indent=2))
-    z.write('manifest.json', join(user, 'manifest.json'))
+    z.write('manifest.json', Path(user) / 'manifest.json')
     z.close()
 
     os.remove('manifest.json')

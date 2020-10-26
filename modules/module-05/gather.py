@@ -50,7 +50,7 @@ for user in usernames:
     for p in random.sample(paths, 25):
         local_p = Path(user) / p.name
         z.write(p, local_p)
-        manifest.append({'path': p.name, 'sha256': sha256(p)})
+        manifest.append({'path': local_p.as_posix(), 'sha256': sha256(p)})
 
     # flip a character in the checksum of a random entry in the manifest
     if user != 'inst341':

@@ -2,3 +2,4 @@ Pipfile*
 .ipynb_checkpoints
 roster.csv
 submissions
+.env

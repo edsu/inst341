@@ -1,19 +1,20 @@
 # Platforms
 
+<img src="images/progress.png">
+
 ## Learning outcomes:
 
-* Explain how platforms transform data.
-* Use version control to explore data provenance.
+* Explain how and why platforms transform data.
+* Trace the transformation of curated data.
 
 ## Readings:
 
-* Acker and Kriesberg (2017). Tweets may be archived: Civic engagement, digital preservation and Obama White House social media data. Proceedings of the Association for Information Science and Technology, 54(1):1–9.
-* Owens, chapter 7?
-* Gillespie:2010? 
+* Gillespie, T. (2010). The Politics of Platforms. new media \& society, 12(3), p. 347-364. 
 
 ## Discussion:
 
-* What did Acker and Kriesberg discover about the Obama social media archives? 
+* Why does Gillespie think that YouTube uses the term "platform" to describe itself?
+* How does Gillespie think that YouTube and other platforms perform digital curation?
 
 ## Exercises:
 

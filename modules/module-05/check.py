@@ -19,5 +19,6 @@ def get_sha256(p):
 for entry in manifest:
     p = submissions / entry['path']
     sha256 = get_sha256(p)
-    if entry['sha256'] != get_sha256(p):
-        print(p)
+    found_sha256 = get_sha256(p)
+    if entry['sha256'] != found_sha256:
+        print(p, 'should be', sha256, 'but found', found_sha256)

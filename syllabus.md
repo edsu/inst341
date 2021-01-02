@@ -234,6 +234,3 @@ Final grades will be computed based on the following components:
 | Graded Exercises (7)      |  70 points |
 | Final Project             |  20 points |
 
-## Academic Integrity
-
-

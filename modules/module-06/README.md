@@ -18,10 +18,5 @@
 
 ## Exercises:
 
-* Create a video, upload to youtube, and download with youtube-dl.
-* See what metadata is stripped from Instagram image.
-* Export and examine a social media archive.
-* youtube-dl to download a video
-* COVID data on GitHub: https://github.com/nytimes/covid-19-data ; https://github.com/nychealth/coronavirus-data
-
+* Use the YouTube API and youtube-dl to download a video. Compare what they allow you to do, and what data they make available.
 

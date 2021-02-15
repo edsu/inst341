@@ -68,7 +68,7 @@ and Jupyter, and are able to install third party Python modules with
 ## Reading Materials
 
 All reading materials will be posted to ELMS. We will be reading selections from
-a couple books which, which you can order print copies of from your favorite
+a couple books, which you can order print copies of from your favorite
 book seller...you know, if you prefer reading real books (I do!). The *Data
 Feminism* book is a beautiful produced coffee table style book and well worth
 the investment if you have the money.
@@ -213,7 +213,7 @@ Exercises:
 * Document some aspect of data infrastructure in your town or city.
 * Explore terpfootprints environmental data.
 
-### 9. Project Wrap-up (December 14 - December 22)
+### 8. Project Wrap-up (December 14 - December 22)
 
 ## Grading
 
